@@ -76,14 +76,14 @@ export default class Map extends Component {
             lat:-7.2612,
             long:112.6962,
             icon:"img/kebakaran.png",
-            link:" http://cctv.balitower.co.id/Bendungan-Hilir-003-700014_2/embed.html"
+            // link:" http://cctv.balitower.co.id/Bendungan-Hilir-003-700014_2/embed.html"
         },
         {   
             nama:"kebakaran",
             lat:-7.2690,
             long:112.6622,
             icon:"img/kebakaran.png",
-            link:" http://cctv.balitower.co.id/Bendungan-Hilir-003-700014_2/embed.html"
+            // link:" http://cctv.balitower.co.id/Bendungan-Hilir-003-700014_2/embed.html"
         },
     ]
   }
